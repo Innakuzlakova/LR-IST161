@@ -1,0 +1,7 @@
+D:\ПиТ ПО\ImprovedFourthLR\bin\Debug\ImprovedFourthLR.exe.config
+D:\ПиТ ПО\ImprovedFourthLR\bin\Debug\ImprovedFourthLR.exe
+D:\ПиТ ПО\ImprovedFourthLR\bin\Debug\ImprovedFourthLR.pdb
+D:\ПиТ ПО\ImprovedFourthLR\obj\Debug\Numb.csprojResolveAssemblyReference.cache
+D:\ПиТ ПО\ImprovedFourthLR\obj\Debug\Numb.csproj.CoreCompileInputs.cache
+D:\ПиТ ПО\ImprovedFourthLR\obj\Debug\ImprovedFourthLR.exe
+D:\ПиТ ПО\ImprovedFourthLR\obj\Debug\ImprovedFourthLR.pdb

@@ -1,0 +1,14 @@
+C:\IST-161\Matvienko\ImprovedFourthLR\ImprovedFourthLR\ImprovedFourthLR\bin\Debug\ImprovedFourthLR.exe.config
+C:\IST-161\Matvienko\ImprovedFourthLR\ImprovedFourthLR\ImprovedFourthLR\bin\Debug\ImprovedFourthLR.exe
+C:\IST-161\Matvienko\ImprovedFourthLR\ImprovedFourthLR\ImprovedFourthLR\bin\Debug\ImprovedFourthLR.pdb
+C:\IST-161\Matvienko\ImprovedFourthLR\ImprovedFourthLR\ImprovedFourthLR\obj\Debug\ImprovedFourthLR.csprojResolveAssemblyReference.cache
+C:\IST-161\Matvienko\ImprovedFourthLR\ImprovedFourthLR\ImprovedFourthLR\obj\Debug\ImprovedFourthLR.csproj.CoreCompileInputs.cache
+C:\IST-161\Matvienko\ImprovedFourthLR\ImprovedFourthLR\ImprovedFourthLR\obj\Debug\ImprovedFourthLR.exe
+C:\IST-161\Matvienko\ImprovedFourthLR\ImprovedFourthLR\ImprovedFourthLR\obj\Debug\ImprovedFourthLR.pdb
+D:\ПиТ ПО\ImprovedFourthLR\bin\Debug\ImprovedFourthLR.exe.config
+D:\ПиТ ПО\ImprovedFourthLR\bin\Debug\ImprovedFourthLR.exe
+D:\ПиТ ПО\ImprovedFourthLR\bin\Debug\ImprovedFourthLR.pdb
+D:\ПиТ ПО\ImprovedFourthLR\obj\Debug\ImprovedFourthLR.csprojResolveAssemblyReference.cache
+D:\ПиТ ПО\ImprovedFourthLR\obj\Debug\ImprovedFourthLR.csproj.CoreCompileInputs.cache
+D:\ПиТ ПО\ImprovedFourthLR\obj\Debug\ImprovedFourthLR.exe
+D:\ПиТ ПО\ImprovedFourthLR\obj\Debug\ImprovedFourthLR.pdb
